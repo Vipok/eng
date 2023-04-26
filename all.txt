@@ -1,0 +1,156 @@
+kind-добрый
+cruel-жестокий
+nice-отличный (n)
+awful-ужасный
+weak-слабый
+strong-сильный
+crazy-псих
+sane-в своем уме
+large-большой (l)
+small-маленький
+outer-внешний
+inner-внутренний
+shut-закрыть (s)
+open-открыть
+hero-герой
+coward-трус
+stop-остановиться
+go-идти
+free-свободный
+bound-связанный
+boring-скучный
+miss-скучать
+smart-умный
+lawyer-юрист
+sweet-милый
+great-отличный (g)
+better-лучше
+often-часто
+friend-друг
+love-любовь
+first-первый
+last-последний
+dark-темнота
+light-свет
+ebb-отлив
+flow-прилив
+blunt-тупой
+sharp-острый
+ally-союзник
+enemy-враг
+hate-ненависть
+sour-кислый
+sweet-сладкий
+bitter-горький
+alive-живой
+dead-мертвый
+unfortunately-к сожалению
+good evening-добрый вечер
+how are you-как поживаешь
+turn left-поверни налево
+turn back-поверни назад
+let me guess-дай угадаю
+i need you-ты мне нужен
+such a beautiful day-такой прекрасный день
+i apologize-я прошу прощения
+that's it-ну всё/хватит
+you're welcome-пожалуйста
+here you are-вот, возьмите
+but good-всерьез/основательно
+see you soon-до скорой встречи
+what's wrong-что случилось
+how come-как так получилось
+say one's say-высказать мнение
+i'd say that-я бы сказал, что
+it would be great-было бы здорово
+i'm getting tired-я начинаю уставать
+in addition to-в дополнение к
+provided that-при условии, что
+seldom-редко
+boil-варить
+hide-скрывать
+drag-тащить
+make-делать
+ride-ездить
+cry-плакать
+cost-стоить
+feed-кормить
+keep-держать
+fit-подходить
+should-должен
+kiss-целовать
+rid-избавлять
+meal-еда
+a lot-много
+glance-взгляд
+feel-чувствовать
+be was were been-быть (гл)
+bear bore born borne-родить (гл)
+beat beat beaten-бить (гл)
+become became become-становиться (гл)
+begin began begun-начинать (гл)
+bind bound bound-связать (гл)
+bite bit bit bitten-кусать (гл)
+bleed bled bled-кровоточить
+blow blew blown-дуть
+break broke broken-ломать
+hard working-трудолюбивый
+sociable-коммуникативный
+friendly-дружелюбный
+compromising-идущий на компромис
+diligent-старательный
+responsible-ответственный
+open minded-с широким кругозором
+polite-вежливый
+attentive-внимательный
+have a good sense of humor-имею хорошее чувство юмора
+are you serious-вы серьезно?
+it is snowy-на улице снежно
+keep one's word-держать слово
+not to worry-ничего страшного
+for a change-для разнообразия
+correct-правильно
+incorrect-неправильно
+beautiful-красивый
+ugly-уродливый
+appear-появляться
+disappear-исчезнуть
+frank-откровенный
+secretive-скрытный
+knowledge-знание
+ignorance-невежество
+accurate-точный
+inaccurate-неточный
+honest-честный
+dishonest-нечестный
+interior-интерьер
+exterior-экстерьер
+possible-возможно
+impossible-невозможно
+fortunate-удачный
+unfortunate-неудачный
+go back-вернитесь
+come true-сбываться
+love you-люблю тебя
+in view of-ввиду
+make sure-убедиться
+sneer-насмехаться
+flatter-льстить
+yell-кричать
+whisper-шептать
+haughty-надменный
+humble-скромный
+nimble-проворный
+sluggish-вялый
+system-состема
+chaos-хаос
+scanty-скудный
+lavish-щедрый
+immerse-погружать
+emerge-возникать
+rout-разгромить
+succumb-уступить
+concur-совпадать
+differ-отличаться
+wilt-увядать
+revive-оживлять
